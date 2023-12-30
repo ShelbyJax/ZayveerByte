@@ -5,8 +5,8 @@
 
 <div align="center">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zayveerByte&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=F7D21A&text_color=202083&bg_color=D8D7D7" alt="Jadson Xavier github stats" /›
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zayveerByte&layout=compact&hide_border=true&title_color=000000)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zayveerByte&layout=compact&hide_border=true&title_color=000000&margin-w=5)
 
 ##
 
