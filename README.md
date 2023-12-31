@@ -3,10 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Doodle+Shadow?&size=35&center=true&color=CAB400&vcenter=true&width=1000&lines=Hi+World!+My+name+is+Jadson+Xavier;Welcome!)](https://git.io/typing-svg)
 
 <div align="center">
-<img width="20%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zayveerByte&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=F7D21A&text_color=202083&bg_color=D8D7D7" alt="Jadson Xavier github stats" /›
+<img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zayveerByte&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=F7D21A&text_color=202083&bg_color=D8D7D7" alt="Jadson Xavier github stats" /›
 
   <div align="center">
-<img width="20%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=zayveerByte&theme=light&hide_border=false"
+<img width="35%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=zayveerByte&theme=light&hide_border=false"
   
 <div align="center">
         <h1 style="font-size: 15px;"> 🏆 Github trophies</h1>
