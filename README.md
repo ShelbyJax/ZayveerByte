@@ -1,4 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=50&section-header"/>
+<div align="center">
+  
+![Welcome](https://github.com/ZayveerByte/ZayveerByte/assets/155082710/5ffed843-84b7-41df-a28b-a9aa84311529)
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Doodle+Shadow?&size=35&center=true&color=CAB400&vcenter=true&width=1000&lines=Hi+World!+My+name+is+Jadson+Xavier)](https://git.io/typing-svg)
 
