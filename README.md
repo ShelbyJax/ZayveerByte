@@ -9,10 +9,3 @@
 <img align="center" width="160" height="160" src="https://user-images.githubusercontent.com/90677747/211471004-9e33adfa-d9cb-4497-9857-a608c767bb18.gif">
 
   
-<div
-
-<div align="center">
-        <h1 style="font-size: 20px;">💻 Studying in this moment:</h1>
-  
-<img src="https://github.com/ZayveerByte/ZayveerByte/blob/main/fb/fb/sdcfd.png?raw=true"/>
-
